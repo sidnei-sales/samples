@@ -1,0 +1,4 @@
+{
+  "SW-01": {"Description": "Create dummy table", "SQL": "CREATE TABLE dummy(id number, text varchar2(10)"},
+  "SW-02": {"Description": "Create dummy table", "SQL": "CREATE TABLE dummy(id number, text varchar2(10)"}
+}
